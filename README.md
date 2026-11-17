@@ -39,7 +39,7 @@ AG News (Zhang, Zhao & LeCun, 2015), loaded from Hugging Face: https://huggingfa
 - 4 balanced classes (30,000 per class in the training set)
 - each article is a title plus a short description
 
-Cleaned dataset (Google Drive): **[add link here]**
+Cleaned dataset (Google Drive): **(https://drive.google.com/drive/folders/1CUUqwe1q-KLLGiLXDxsT6PQkAcLKuQfO?usp=sharing)**
 
 ## What we did
 
@@ -90,8 +90,8 @@ If you use PowerShell, activate with `.\.venv\Scripts\Activate.ps1` instead.
 
 Two model files are too big for GitHub (Random Forest and DistilBERT), so they are not in this repo. Download them from Google Drive and put them in the `models/` folder:
 
-- `random_forest.joblib`: **[add link here]**
-- `distilbert-agnews/` (whole folder): **[add link here]**
+- `random_forest.joblib`: **(https://drive.google.com/drive/folders/1CUUqwe1q-KLLGiLXDxsT6PQkAcLKuQfO?usp=sharing)**
+- `distilbert-agnews/` (whole folder): **https://drive.google.com/drive/folders/1CUUqwe1q-KLLGiLXDxsT6PQkAcLKuQfO?usp=sharing**
 
 The app still works without them. Only those two options in the model list will show a "model file not found" message.
 
